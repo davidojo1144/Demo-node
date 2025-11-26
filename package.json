@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.1.0"
+    "axios": "^1.13.2",
+    "express": "^5.1.0",
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
