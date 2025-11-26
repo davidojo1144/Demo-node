@@ -7,7 +7,7 @@ app.use(express.json());
 // 📦 DATA STORAGE FORMAT (In-memory)
 const users = {};
 
-// 🧪 MOCK TELEGRAM LUNA BOT INTEGRATI
+// 🧪 MOCK TELEGRAM LUNA BOT INTEGRATION
 // Simulates revoking access from the Telegram community
 const TelegramLunaBot = {
   revokeAccess: (userId) => {
